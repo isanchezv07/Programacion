@@ -4,7 +4,8 @@
 - [Clase 2](clase_2/)
 - [Clase 3](clase_3/)
 - [Clase 4](clase_4/)
+- [Clase 5](clase_5/)
 
 ## RETOS
 
-- [Reto 1 ](RETO(busqueda_de_articulo).ipynb)
+- [Reto 1 ](RETOS/)
