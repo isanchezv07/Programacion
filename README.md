@@ -8,4 +8,5 @@
 
 ## RETOS
 
-- [Reto 1 ](RETOS/)
+- [Reto 1 ](RETOS/RETO(busqueda_de_articulo).ipynb)
+- [Reto 2 ](RETOS/RETO(Pedido_a_domicilio).py)
