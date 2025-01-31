@@ -37,8 +37,9 @@ while True:
             continue  # Permite al usuario seguir sin salir del bucle
 
     # Pregunta al usuario si desea continuar añadiendo productos
-    continuar = input("¿Deseas seguir añadiendo productos? (sí/no): ").strip().lower()
-    if continuar != 'si':
-        print("El total de su pedido es: $", pedido_total)
-        print("Gracias por su pedido. ¡Buen provecho!")
-        break  # Termina el bucle
+    if opcion != '0':
+            continuar = input("¿Deseas seguir añadiendo productos? (sí/no): ").strip().lower()
+        if continuar == 'no':
+            print("El total de su pedido es: $", pedido_total)
+            print("Gracias por su pedido. ¡Buen provecho!")
+            break  # Termina el bucle

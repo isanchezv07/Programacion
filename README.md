@@ -6,6 +6,7 @@
 - [Clase 4](clase_4/)
 - [Clase 5](clase_5/)
 - [Clase 6](clase_6/)
+- [Clase 7](clase_7/)
 
 ## RETOS
 
