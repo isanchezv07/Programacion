@@ -9,8 +9,10 @@
 - [Clase 7](clase_7/)
 - [Clase 8](clase_8/)
 - [Clase 9](clase_9/)
+- [Clase 10](clase_10/)
 
 ## RETOS
 
 - [Reto 1 ](RETOS/RETO(busqueda_de_articulo).ipynb)
 - [Reto 2 ](RETOS/RETO(Pedido_a_domicilio).py)
+- [Reto 3 ](RETOS/RETO(sistema_de_reservaciones).py)
