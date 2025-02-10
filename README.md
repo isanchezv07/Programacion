@@ -13,6 +13,7 @@
 
 ## RETOS
 
-- [Reto 1 ](RETOS/RETO(busqueda_de_articulo).ipynb)
-- [Reto 2 ](RETOS/RETO(Pedido_a_domicilio).py)
-- [Reto 3 ](RETOS/RETO(sistema_de_reservaciones).py)
+- [Reto 1](RETOS/RETO(busqueda_de_articulo).ipynb)
+- [Reto 2](RETOS/RETO(Pedido_a_domicilio).py)
+- [Reto 3](RETOS/RETO(sistema_de_reservaciones).py)
+- [Reto 4](RETOS/RETO(prestamos_en_biblioteca).py)
