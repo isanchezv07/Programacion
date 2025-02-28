@@ -12,6 +12,9 @@
 - [Clase 10 | lambda](clase_10/)
 - [Clase 11 | excepciones](clase_11/)
 
+## PROBLEMAS
+- [Problema 1 | gastos](RETOS/gastos.ipynb)
+
 ## RETOS
 
 - [Reto 1 | busqueda de articulo](RETOS/RETO(busqueda_de_articulo).ipynb)
